@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: Via1; singleton:=true
 Bundle-Name: Via1
-Bundle-Version: 1.2.0
+Bundle-Version: 1.2.1
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: Via1
 SAP-NodeType: IFLMAP
